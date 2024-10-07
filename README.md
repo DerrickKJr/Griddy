@@ -1,4 +1,4 @@
-# Griddy: Top-Down Tile Manager Script:
+# Griddy: Top-Down Tile Manager Script
 ## Open-Source Project Documentation
 
 ### This document serves as the official guide for the open-source "Griddy" tool (?). It details the functionalities, usage, and key parts of the Grid Manager system, which allows for placing and removing objects on a grid in Unity. Developers can use, modify, and expand upon this system freely.
@@ -80,5 +80,6 @@
 
 •	Undo/Redo System: Implement an undo/redo system to give players flexibility in placing and removing objects.
 
-![image](https://github.com/user-attachments/assets/91bac3b0-163e-4471-9ec5-46858adb51f5)
+> [!IMPORTANT]
+> This is my first open source project and first untiy tool. Constructed feedback is very much appreciated!
 
